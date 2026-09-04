@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|c:\\users\\acer\\source\\repos\\dec17-coffee-4pm-backup\\project_it13\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\cashierdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\cashierdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\cashierinventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\cashierinventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\cashiercashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\cashiercashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\adminsales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\adminsales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\admininventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\admininventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\admindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\admindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\admincashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\admincashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\project_it13\\adminaccounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BB3BA666-116C-4AAC-8304-B7B533637DE6}|PROJECT_IT13\\PROJECT_IT13.vbproj|solutionrelative:project_it13\\adminaccounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\Login.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\Login.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\Login.vb",
+              "RelativeToolTip": "PROJECT_IT13\\Login.vb",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-28T11:44:07.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashierDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\CashierDashboard.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\CashierDashboard.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\CashierDashboard.vb [Design]",
+              "RelativeToolTip": "PROJECT_IT13\\CashierDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T11:56:56.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CashierCashier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\CashierCashier.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\CashierCashier.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\CashierCashier.vb [Design]",
+              "RelativeToolTip": "PROJECT_IT13\\CashierCashier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T11:56:50.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminSales.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminSales.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\AdminSales.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminSales.vb [Design]",
+              "RelativeToolTip": "PROJECT_IT13\\AdminSales.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T11:56:39.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\Login.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\Login.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\Login.vb [Design]",
+              "RelativeToolTip": "PROJECT_IT13\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-17T10:11:20.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashierInventory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\CashierInventory.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\CashierInventory.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\CashierInventory.vb [Design]",
+              "RelativeToolTip": "PROJECT_IT13\\CashierInventory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T11:57:00.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\packages.config",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\packages.config",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\packages.config",
+              "RelativeToolTip": "PROJECT_IT13\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-22T11:57:04.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminInventory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminInventory.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\AdminInventory.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminInventory.vb [Design]",
+              "RelativeToolTip": "PROJECT_IT13\\AdminInventory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T11:56:35.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminCashier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminCashier.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\AdminCashier.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminCashier.vb [Design]",
+              "RelativeToolTip": "PROJECT_IT13\\AdminCashier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T11:56:22.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminAccounts.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminAccounts.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\AdminAccounts.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminAccounts.vb [Design]",
+              "RelativeToolTip": "PROJECT_IT13\\AdminAccounts.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T11:56:16.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminDashboard.vb",
+              "RelativeDocumentMoniker": "PROJECT_IT13\\AdminDashboard.vb",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DEC17-COFFEE-4PM-BACKUP\\PROJECT_IT13\\AdminDashboard.vb [Design]",
+              "RelativeToolTip": "PROJECT_IT13\\AdminDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T11:56:03.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
